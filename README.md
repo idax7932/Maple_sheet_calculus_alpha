@@ -1,6 +1,6 @@
 # En samling af nyttige maple dokumenter til Calculus Alpha eksamen.
 
-Davs. Dette er en række dokumenter lavet af Idas tæskehold til brug under forberedelse til (og evt under) skriftelig eksamen i Caluclus Alpha.  
+Davs. Dette er en række dokumenter lavet af Idas tæskehold til brug under forberedelse til (og evt under) skriftlig eksamen i Caluclus Alpha.  
 Repoet består af følgende:  
 
 * Træningsopgaver: En besvarelse af alle tre sæt af træningsopgaver. Kommer uden garanti for korrekthed. Kontakt gerne Sarah hvis du finder en fejl.
